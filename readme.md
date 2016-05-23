@@ -1,4 +1,4 @@
-*****nodejs server*****
+#######nodejs server#######
  cd server
  npm install
  node server.js
@@ -9,7 +9,7 @@
 
 
 
-*****ionic client*****
+#######ionic client#######
  cd client
  ionic serve
  > http://localhost:8000
@@ -18,7 +18,7 @@
 
 
 
-#######run it in android########
+#######run it in android#######
 1. install ionic
 2. install android sdk (your can install android studio which include sdk)
 3. create a avd(better with android 23 - v6.0)
