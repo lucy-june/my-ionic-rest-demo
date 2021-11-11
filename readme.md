@@ -1,3 +1,5 @@
+# My demo of ionic - rest service
+
 #######nodejs server#######
 1. cd server
 2. npm install
